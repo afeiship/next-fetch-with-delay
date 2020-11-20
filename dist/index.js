@@ -3,7 +3,7 @@
  * description: Fetch with delay options.
  * homepage: https://github.com/afeiship/next-fetch-with-delay
  * version: 1.0.0
- * date: 2020-11-20 22:03:50
+ * date: 2020-11-20 22:29:13
  * license: MIT
  */
 

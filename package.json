@@ -39,5 +39,10 @@
   },
   "dependencies": {
     "@jswork/next-delay": "^1.0.0"
-  }
+  },
+  "keywords": [
+    "next",
+    "fetch",
+    "delay"
+  ]
 }
